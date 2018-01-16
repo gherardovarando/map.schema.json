@@ -8,7 +8,7 @@ json schema for maps.
 
 ## map.json
 
-maps.json represent a map in json notation. Such maps can be displayed using for example leaflet library (with [leaflet-mapbuilder](https://github.com/gherardovarando/leaflet-mapbuilder) ).
+maps.json represent a map in json notation. Such maps can be displayed using for example leaflet library (with [leaflet-map-builder](https://github.com/gherardovarando/leaflet-map-builder) ).
 
 ## layer.json
 
