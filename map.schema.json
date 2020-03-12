@@ -249,7 +249,13 @@
       "type": "object",
       "properties": {
         "data": {
-          "type": "object"
+          "anyOf": [{
+              "type": "object"
+            },
+            {
+              "type": "string"
+            }
+          ]
         }
       },
       "required": ["data"]
